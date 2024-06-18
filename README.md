@@ -7,3 +7,8 @@ In this group project, we will employ a multilinear regression model to predict 
 5. **Letter of Recommendation (LOR)**
 6. **CGPA**
 7. **Research Experience**
+
+The dataset has been taken from this website [1].
+
+# Bibliography
+[1] https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
